@@ -3,9 +3,9 @@ require "language/go"
 class Rancherssh < Formula
   desc "Native SSH Client and docker terminal for Rancher Containers"
   homepage "https://github.com/fangli/rancherssh"
-  url "https://github.com/fangli/rancherssh/archive/v1.1.2.tar.gz"
-  version "1.1.2"
-  sha256 "38974f8c601fa8cd9b9620893eea0ec3fed281513213f86029c3fb3097b9c251"
+  url "https://github.com/fangli/rancherssh/archive/v1.1.3.tar.gz"
+  version "1.1.3"
+  sha256 "f36a678e66e8d7b832901bc37747e09424910180d06af89d3c5c3ed53f5d03f7"
 
   head "https://github.com/fangli/rancherssh.git"
 
